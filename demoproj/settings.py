@@ -25,7 +25,7 @@ SECRET_KEY = '3b@+tsyy#ty4c7*gjqb6z6@i)w#rbpxm-8856u61-f#r+4_j$z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['c87308045ef640c88bd69ca43f55e90b.vfs.cloud9.eu-west-2.amazonaws.com']
+ALLOWED_HOSTS = ['c87308045ef640c88bd69ca43f55e90b.vfs.cloud9.eu-west-2.amazonaws.com','django-tutorial-env.eba-j4wmpprr.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
@@ -121,4 +121,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-LOGIN_REDIRECT_URL = '/'
+
